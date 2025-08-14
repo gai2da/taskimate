@@ -1,0 +1,6 @@
+framework module speech_bubble {
+  umbrella header "speech_bubble-umbrella.h"
+
+  export *
+  module * { export * }
+}
